@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Paul Davis"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/me.jpeg"
   bio              : "Husband, Father, Manager, Gen X"
   location         : "Somewhere"
   email            :

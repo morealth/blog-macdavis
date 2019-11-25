@@ -1,10 +1,10 @@
 ---
-title: "About Me"
+title: "About Me title"
 excerpt: "A little about me"
 permalink: /about/
 header:
   image: /assets/images/unsplash-gallery-image-2.jpg
-  teaser: assets/images/unsplash-gallery-image-2-th.jpg
+  teaser: /assets/images/unsplash-gallery-image-2-th.jpg
 sidebar:
   - title: "Work"
     image: http://placehold.it/350x250

@@ -2,11 +2,10 @@
 title: "Vomit on the top, poo on the trousers"
 categories:
   - family
-  - what am i doing
 tags:
   - kids
   - fml
-  - self torture
+  - torture
 ---
 Thursday 13th April, 12 whole weeks ago, was my last day at work.  When I say work I mean my job in London. It was also my last day of what I'm used to, getting up, commuting, working, accomplishing things, using my mind, working out problems and for the most part accomplishing things. Yes I meant to say that last part twice and by accomplishing things I mean simple things too, you know, like going out in clean clothes.
 

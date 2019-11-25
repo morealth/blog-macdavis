@@ -1,6 +1,7 @@
 ---
 title: "About Me"
 excerpt: "A little about me"
+permalink: /about/
 header:
   image: /assets/images/unsplash-gallery-image-2.jpg
   teaser: assets/images/unsplash-gallery-image-2-th.jpg

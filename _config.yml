@@ -241,6 +241,8 @@ whitelist:
   - jekyll-feed
   - jekyll-include-cache
 
+# pages permalinks
+permalink: /about/
 
 # Archives
 #  Type
